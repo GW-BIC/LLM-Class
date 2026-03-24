@@ -1,8 +1,15 @@
 # LLM-Class
 Just a wee repository for the materials for the LLM Class given on 3/24
 
-## 🔗 Needed Links!
+## 🔗 Suggested Links!
 - [LLM Playground](https://playground.ai.cloudflare.com/)
+
+### Suggested Models
+- Mistral 7b-Instruct-v0.1
+- llama-3.1-8b-instruct-fp8
+- deepseek-r1-distill-qwen-32b
+- llama-3.2-3b-instruct
+- Or whatever you have access to
 
 ## 📋 Copy-Paste Text!
 ### Temperature
