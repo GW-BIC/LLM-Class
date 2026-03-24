@@ -2,7 +2,7 @@
 Just a wee repository for the materials for the LLM Class given on 3/24
 
 ## 🔗 Needed Links!
-- [LLM Playgorund](https://playground.ai.cloudflare.com/)
+- [LLM Playground](https://playground.ai.cloudflare.com/)
 
 ## 📋 Copy-Paste Text!
 ### Temperature
