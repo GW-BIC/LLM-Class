@@ -2,14 +2,18 @@
 Just a wee repository for the materials for the LLM Class given on 3/24
 
 ## 🔗 Suggested Links!
-- [LLM Playground](https://playground.ai.cloudflare.com/)
-
-### Suggested Models
+###[LLM Playground](https://playground.ai.cloudflare.com/) (No Account Required)
+#### Suggested Models
 - Mistral 7b-Instruct-v0.1
 - llama-3.1-8b-instruct-fp8
 - deepseek-r1-distill-qwen-32b
 - llama-3.2-3b-instruct
-- Or whatever you have access to
+
+### [HuggingFace](https://huggingface.co/chat/) (Requires an Account)
+#### Suggested Models
+- Qwen3.5-9B
+- Qwen3-8B
+- Qwen2.5-7B-Instruct
 
 ## 📋 Copy-Paste Text!
 ### Temperature
