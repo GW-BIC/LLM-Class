@@ -3,14 +3,19 @@ Just a wee repository for the materials for the LLM Class given on 3/24
 
 ## 🔗 Suggested Links!
 
-### [LLM Playground](https://playground.ai.cloudflare.com/) (No Account Required)
+### [WebLLM](https://chat.webllm.ai/#/chat) (Preferred)
+#### Suggested Models
+- Qwen3 1.7B q4f16_1
+- Qwen3 0.6B q4f32_1
+
+### [LLM Playground](https://playground.ai.cloudflare.com/) (No Account Required, but doesn't work well)
 #### Suggested Models
 - Mistral 7b-Instruct-v0.1
 - llama-3.1-8b-instruct-fp8
 - deepseek-r1-distill-qwen-32b
 - llama-3.2-3b-instruct
 
-### [HuggingFace](https://huggingface.co/chat/) (Requires an Account)
+### [HuggingFace](https://huggingface.co/chat/) (Requires an Account, Works Best)
 #### Suggested Models
 - Qwen3.5-9B
 - Qwen3-8B
